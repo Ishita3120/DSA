@@ -1,4 +1,3 @@
 # DSA
-My practice codes for DSA
-<br>
-Author-Ishita Sahay(I can and I will)
+My daily practice solution for Data Structure and Algorithms in Java.
+Consistency is what matters!!
